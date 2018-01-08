@@ -84,4 +84,4 @@ $string['settingsheadernewcourses'] = 'Creation of new courses';
 $string['remoteuserfield_desc'] = 'The name of the field in the remote table that we are using to match entries in the user table.';
 $string['templatecourse'] = 'New course template';
 $string['templatecourse_desc'] = 'Optional: auto-created courses can copy their settings from a template course. Type here the shortname of the template course. Used when no new course template field is specified or the template course is not found';
- of the template course. Used when no new course template field is specified or the template course is not found';
+
